@@ -1,0 +1,35 @@
+ConfigServer = {}
+
+ConfigServer.Token = ""
+
+ConfigServer.Webhook = {
+    ban = "https://discord.com/api/",
+    kick = "https://discord.com/api/",
+    adminjail = "https://discord.com/api/",
+    warn = "https://discord.com/api/webhooks",
+    skinmenu = "https://discord.com/api/",
+    spectate = "https://discord.com/api/",
+    revive = "https://discord.com/api",
+    heal = "https://discord.com/api",
+    kill = "https://discord.com/api",
+    wipe = "https://discord.com/api",
+    goto1 = "https://discord.com/api",
+    bring = "https://discord.com/api",
+    giveitem = "",
+    givemoney = "",
+    setjob = "",
+    clearinventory = "",
+    giveadmin = "",
+    clearped = "",
+    sendmessage = "",
+    freeze = "",
+    noclip = "",
+    invisibilita = "",
+    godmode = "",
+    nomiplayer = "",
+    annuncio = "",
+    reviveall = "",
+    givemoneyall = "",
+    repairvehicle = "",
+    cleararea = "",
+}
