@@ -6,7 +6,7 @@ Schön das du dir dieses Projekt anguckst, mein Ziel ist es, für jeden den Perf
 - Mehr Infos: Auf unseren Discord https://discord.gg/JvnmpZmJ8s
 # Entwicklungszeit aktuell:
 
-[![wakatime](https://wakatime.com/badge/user/8179ac82-4f81-4e8c-8976-2e51e14e1a46/project/35040979-3cf9-4010-8904-5ec10b7ea1d4.svg)](https://wakatime.com/badge/user/8179ac82-4f81-4e8c-8976-2e51e14e1a46/project/35040979-3cf9-4010-8904-5ec10b7ea1d4)
+[![wakatime](https://wakatime.com/badge/github/Gaming-BigD88/NewFivem.svg)](https://wakatime.com/badge/github/Gaming-BigD88/NewFivem.svg)
 
 - Für den Server sind noch weitere Sachen geplant, gerne könnt ihr Vorschläge über den Discussions Tab machen.
 - Solltet ihr irgendwelche Bugs finden, nutzt bitte den Issues Tab und beschreibt den Bug so gut wie möglich. Wir werden dann schnellst möglich versuchen den Bug zu fixen.
