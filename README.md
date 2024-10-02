@@ -4,7 +4,7 @@ Wann wird das kommen
 ![FiveM template Server ]()
 
 Schön das du dir dieses Projekt anguckst, mein Ziel ist es, für jeden den Perfekten Start in die Welt von FiveM zu bieten. Hier ist ein angepasster FiveM ESX Legacy Server. 
-- Mehr Infos: Auf unseren Discord https://discord.gg/JvnmpZmJ8s
+- Mehr Infos: Auf unseren Discord https://discord.gg/Dqyb9626zq
 # Entwicklungszeit aktuell:
 
 [![wakatime](https://wakatime.com/badge/user/8179ac82-4f81-4e8c-8976-2e51e14e1a46.svg)](https://wakatime.com/@8179ac82-4f81-4e8c-8976-2e51e14e1a46)
