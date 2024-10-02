@@ -1,5 +1,5 @@
 # Template Server ESX Legacy! - UNBEDINGT LESEN
-Wird komplett umgebastelt
+Wird komplett umgebastelt mit aktuellen update
 
 ![FiveM template Server ]()
 
