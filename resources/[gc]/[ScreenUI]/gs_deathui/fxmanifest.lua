@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "gs_deathscreen"
 description "Deathscreen"
-author "GothamScripts"
+author "Gaming Service"
 version "1.0.1"
 
 client_scripts {

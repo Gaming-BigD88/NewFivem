@@ -88,7 +88,7 @@ Config.Zones = {
 			vector3(-1820.5, 792.5, 138.1),
 			vector3(1698.3, 4924.4, 42.0)
 	},
-	Size  = 0.8,
+	Size  = 0.6,
 	Type  = 59,
 	Color = 25,
 	ShowBlip = true,
