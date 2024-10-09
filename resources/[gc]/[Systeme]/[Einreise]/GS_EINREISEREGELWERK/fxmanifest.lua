@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "GS_EINREISEV2"
 description "EINREISE V2"
-author "Gotham Scripts"
+author "Gaming Service"
 version "1.1.0"
 
 client_scripts{
