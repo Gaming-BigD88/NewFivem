@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "GS_Warnnotify"
 description "Warn Notify"
-author "GothamScripts"
+author "Gaming Service"
 version "1.0.0"
 
 client_scripts {
