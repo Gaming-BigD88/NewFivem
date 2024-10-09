@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "GS_LOADINGSCREEN"
 description "Ladebildschirm"
-author "Gotham Scripts"
+author "Gaming Service"
 version "1.1.0"
 
 files {
