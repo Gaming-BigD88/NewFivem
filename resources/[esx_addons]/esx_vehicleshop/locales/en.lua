@@ -1,9 +1,9 @@
 Locales['en'] = {
   -- global menus
-  ['not_enough_in_society']   = 'there\'s not enough of ~r~that item in the society!',
-  ['player_cannot_hold']      = 'you do ~r~not have enough free space in your inventory!',
-  ['vehicle_belongs']         = 'a vehicle with plate %s now belongs to you',
-  ['broke_company']           = 'you do not have enough money in the company account',
+  ['not_enough_in_society']   = 'Von diesem Gegenstand gibt es in der Business nicht genug!',
+  ['player_cannot_hold']      = 'Sie ~r~haben nicht genügend freien Platz in Ihrem Inventar haben!',
+  ['vehicle_belongs']         = 'Ein Fahrzeug mit dem Kennzeichen %s gehört jetzt Ihnen',
+  ['broke_company']           = 'Sie haben nicht genug Geld auf dem Firmenkonto',
   ['license_missing']         = 'you don\'t have a driver\'s license!',
   ['buy_vehicle_shop']        = 'do you want to purchase %s for $%s?',
   ['buy_vehicle']             = 'buy vehicle',
